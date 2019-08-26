@@ -1,0 +1,80 @@
+*{padding: 0;margin: 0;}
+
+a{text-decoration: none; 
+       color: black;}
+li{list-style: none;}
+.row{margin: 0;padding: 0;}
+.container{padding: 0;
+margin: 0;width: 100%;}
+.logos img{width:50%;}
+#logo{width: 80%;
+padding: 0; 
+color: white;
+text-align: center;}
+.logos{background: -webkit-linear-gradient(blue,green);}
+.rt{background: white;
+border-bottom-right-radius:40px ;
+padding: 10px 3px;}
+body{background-color: whitesmoke;}
+#two{background: url(../img/ultrasound-l.jpg) no-repeat;
+background-size: 100%;
+text-align: center;
+padding: 80px;}
+#two h1{margin: 5px 0;}
+.p{padding: 10px 0;}
+.p span{margin-top: 2px;}
+.p1{
+	margin: 0;
+	padding-top: 10px;
+	height: 0;
+	overflow: hidden;
+	transition: all 2s; 
+}
+.logos :hover.p1{
+	line-height: 2;
+	height: 70px;
+	padding: 10px 0;
+	
+}
+#one{margin-bottom: 40px;}
+#twoo{margin: 10px 0;}
+#twoo img{width: 100%;}
+#three2{margin: 10px 0;}
+#three2 img{width:100%;}
+#four1{margin: 10px 0;}
+#four1 img{width:100%;}
+#five22{background-color: #C0C0C0;margin-bottom: 0;}
+#five22 a{color:blue ;}
+#five22 li a span{color: black;padding-left: 5px;}
+
+#l2 img{width: 40%;float: left;margin-top: 10px;}
+#three{background: url(../img/li-l.jpg) no-repeat;
+padding: 100px;background-size: 100%;color: white;}
+#four {background: url(../img/philips-watch-left-l.jpg) no-repeat; 
+padding: 80px;background-size: 100%;color: white;font-weight: bold;}
+#fif{background: url(../img/LM-MyPhilips-Banner.jpg) no-repeat;
+background-size: 100%;margin-top:50px;text-align: left;}
+.f{padding-bottom: 50%; padding-top: 10%;}
+#five{line-height: 1.5em;}
+#five1 li a span{color: black;padding-left: 5px;}
+#five1 li a{color: blue;text-decoration: none;}
+#five2 input{margin: 3px 0;}
+#bg input{background: url(../img/zoom.png.jpg) no-repeat right #F5F5F5;}
+#six{background-color: lightskyblue;padding: 60px 0;}
+#seven{background-color: #000000;color: white;}
+#eight{background-color: darkblue;}
+#eight img{width: 10%;}
+#eight p{color: white;}
+#e img{width: 20%;margin-top: 10px;}
+.booter {text-align: center;margin-top: 20px;}
+#ee{margin-top: 20px;}
+#eee{margin-top: 10px;}
+#eee a{color: white;}
+#eee img{margin-left: 15px;}
+#eight11{background-color: darkblue;text-align: center;}
+#eight11 img{width: 10%;}
+#eight p{color: white;}
+#eee1 a{color: white;}
+.booter1 p{color: white;}
+#eee1{margin-bottom: 5px;}
+#ee1{margin: 5px 0;}

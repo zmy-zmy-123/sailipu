@@ -1,0 +1,65 @@
+*{padding: 0;margin: 0;}
+
+a{text-decoration: none; 
+       color: black;}
+li{list-style: none;}
+.row{margin: 0;padding: 0;}
+.container{padding: 0;
+margin: 0;width: 100%;}
+.logos img{width:50%;}
+#logo{width: 80%;
+padding: 0; 
+color: white;
+text-align: center;}
+.logos{background: -webkit-linear-gradient(blue,green);}
+.rt{background: white;
+border-bottom-right-radius:40px ;
+padding: 10px 3px;}
+
+.p{padding: 10px 0;}
+.p span{margin-top: 2px;}
+.p1{
+	margin: 0;
+	padding-top: 10px;
+	height: 0;
+	overflow: hidden;
+	transition: all 2s; 
+}
+.logos :hover.p1{
+	line-height: 2;
+	height: 70px;
+	padding: 10px 0;
+	
+}
+
+#bbbb{border-bottom: 1px solid #C0C0C0;}
+#tu li{display: inline-block;}
+#banner{background: url(../img/ultrasound-l.jpg) no-repeat ;
+background-size: 100%;
+padding: 10% 0;}
+#center{padding: 20px 0;margin-bottom: 1%;}
+#six a{color: darkseagreen;}
+#six img{width: 80%;}
+#seven{background-color: #000000;color: white;}
+#eight{background-color: darkblue;}
+#eight img{width: 10%;}
+#eight p{color: white;}
+#e img{width: 20%;margin-top: 10px;}
+.booter {text-align: center;margin-top: 20px;}
+#ee{margin-top: 20px;}
+#eee{margin-top: 10px;}
+#eee a{color: white;}
+#eee img{margin-left: 15px;}
+#eight11{background-color: darkblue;text-align: center;}
+#eight11 img{width: 10%;}
+#eight p{color: white;}
+#eee1 a{color: white;}
+.booter1 p{color: white;}
+#eee1{margin-bottom: 5px;}
+#ee1{margin: 5px 0;}
+#rtg ul li img{width: 30%;display: none;}
+#rtg ul{/*position: fixed;right: 0;top: 45%;*/}
+#rtg p{background-color: blue;width: 10%;color: white;float: right;}
+#rtg {position: fixed;right: 0;top: 45%;}
+
+
